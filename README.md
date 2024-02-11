@@ -14,7 +14,7 @@
 ## Shade. Crush. Regret.
 - Chapter 2: AstridZaraKiss - [MaddeningTrash](https://twitter.com/MaddeningTrash)
 - Chapter 3: ahatosketh_2 - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
-- Chapter 5.A: Krysta - [VeryDizzy](Dizzy)
+- Chapter 5.A: Krysta - [VeryDizzy](https://archiveofourown.org/users/VeryDizzy)
 - Chapter 5.Z: shaded/dj_got_us_sanitized_in_the_house_tonight - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 - Chapter 5.Z: ZaraSanitizationCamera/ZaraSanitization - [usagipyon_](https://baphopyon.carrd.co/)
 - Chapter 6: may_we_find_each_other - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
