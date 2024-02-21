@@ -23,3 +23,8 @@
 ## Out of Order
 - Chapter 1: Acht - [underFlorence](https://nonepizzaleftgirl.tumblr.com/)
 - Chapter 4: the beginnings - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
+
+## Zenith of Justice
+- Chapter 1: For the Good of Monsterkind - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
+- Chapter 1: Martlet - [Popsicles](https://www.tumblr.com/possiblycringe)
+- Chapter 4: Can I Interest You in Some Arson? - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
