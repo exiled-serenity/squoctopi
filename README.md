@@ -20,3 +20,6 @@
 - Chapter 6: may_we_find_each_other - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 ## I Am Agent Four
 - agentfour - [xtravisage](https://archiveofourown.org/users/xtravisage)
+## Out of Order
+- Chapter 1: Acht - [underFlorence](https://nonepizzaleftgirl.tumblr.com/)
+- Chapter 4: the beginnings - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
