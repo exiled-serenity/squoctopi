@@ -1,4 +1,6 @@
 # Image Credits (potential name spoilers)
+## Dissonance Disaster
+- Chapter 5: She's the Star - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 ## Sterile Equilibrium
 - Chapter 3: CallieDedf1shFight - [Donhi](https://www.tumblr.com/theproblemsofdonhi)
 - Chapter 6: shades - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
