@@ -35,3 +35,4 @@
 - Chapter 1: For the Good of Monsterkind - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 - Chapter 1: Martlet - [Popsicles](https://www.tumblr.com/possiblycringe)
 - Chapter 4: Can I Interest You in Some Arson? - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
+- Chapter 6: No, Not You Too - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
