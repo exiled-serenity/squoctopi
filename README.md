@@ -12,10 +12,11 @@
 - Chapter 2: LookAtHer - [Donhi](https://www.tumblr.com/theproblemsofdonhi)
 - Chapter 4: BlorbosOnClass350 - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 - Chapter 5: JeffreyBurgerHug - [markerthorinus](https://archiveofourown.org/users/markerthorinius)
-- Chapter 7: dont_worry_shes_fine - [BucketOfMud](https://archiveofourown.org/users/BucketOfMud)
+- Chapter 7: dont_worry_shes_fine - [Popsicles](https://www.tumblr.com/possiblycringe)
 ## Shade. Crush. Regret.
 - Chapter 2: AstridZaraKiss - [MaddeningTrash](https://twitter.com/MaddeningTrash)
 - Chapter 3: ahatosketh_2 - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
+- Chapter 4: SCRCh4 - [Popsicles](https://www.tumblr.com/possiblycringe)
 - Chapter 5.A: Krysta - [VeryDizzy](https://archiveofourown.org/users/VeryDizzy)
 - Chapter 5.Z: shaded/dj_got_us_sanitized_in_the_house_tonight - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 - Chapter 5.Z: ZaraSanitizationCamera/ZaraSanitization - [usagipyon_](https://baphopyon.carrd.co/)
@@ -36,3 +37,7 @@
 - Chapter 1: Martlet - [Popsicles](https://www.tumblr.com/possiblycringe)
 - Chapter 4: Can I Interest You in Some Arson? - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
 - Chapter 6: No, Not You Too - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
+
+## Astrid's Dev Diaries
+- Chapter 11: Coat!Astrid - [underFlorence](https://www.tumblr.com/nonepizzaleftgirl)
+- Chapter 24: Astrid Mirror - [Popsicles](https://www.tumblr.com/possiblycringe)
