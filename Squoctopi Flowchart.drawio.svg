@@ -11,6 +11,9 @@
    id="svg222"
    sodipodi:docname="Squoctopi Flowchart.drawio.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="Squoctopi Flowchart.png"
+   inkscape:export-xdpi="333"
+   inkscape:export-ydpi="333"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,14 +30,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.2602524"
-     inkscape:cx="297.1627"
-     inkscape:cy="317"
+     inkscape:cx="261.45557"
+     inkscape:cy="242.41176"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g167" />
+     inkscape:current-layer="g220" />
   <defs
      id="defs1" />
   <rect
@@ -235,7 +238,8 @@
                  stroke-miterlimit="10"
                  stroke-dasharray="1, 2"
                  pointer-events="stroke"
-                 id="path15" />
+                 id="path15"
+                 style="stroke-dasharray:3,3;stroke-dashoffset:0" />
               <path
                  d="m 372.12,561 7,-3.5 -1.75,3.5 1.75,3.5 z"
                  fill="#000000"
