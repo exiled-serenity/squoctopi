@@ -41,3 +41,6 @@
 ## Astrid's Dev Diaries
 - Chapter 11: Coat!Astrid - [underFlorence](https://www.tumblr.com/nonepizzaleftgirl)
 - Chapter 24: Astrid Mirror - [Popsicles](https://www.tumblr.com/possiblycringe)
+
+## The Look
+- Chapter 6: The Look - [Thunder_Jake](https://archiveofourown.org/users/Thunder_Jake)
